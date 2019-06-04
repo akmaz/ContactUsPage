@@ -3,7 +3,8 @@ An implementation of a test scenario covering the test of a Contact Us demo page
 
 ### Prerequisites
 To run the project, you will need:
-* JDK 8 - you can download from [here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* JDK 8 - you can download [here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
+* Eclipse - you can download [here](https://www.eclipse.org/downloads/packages/).
 * Selenium WebDriver - used version 3.141.59.
 You can download [here](https://www.seleniumhq.org/download/).
 * Apache POI - used version 4.1.0.
@@ -13,7 +14,7 @@ It's already added to the project in the /libs folder, but for your own purposes
 
 ### Running the test
 
-In order to perfom the testing, run main\TestScript.java file. It handles individual test cases located in the \testcases package.
+In order to perfom the testing, run main/TestScript.java file. It handles individual test cases located in the /testcases package.
 
 Address of a website being tested:
 http://automationpractice.com/index.php?controller=contact
