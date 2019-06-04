@@ -18,7 +18,10 @@ In order to perfom the testing, run main\TestScript.java file. It handles indivi
 Address of a website being tested:
 http://automationpractice.com/index.php?controller=contact
 
-Sample of the Excel file:
+Screenshot of a wesbite being tested:
+
+
+Sample screenshots of the Excel file:
 
 
 
