@@ -4,11 +4,11 @@ An implementation of a test scenario covering the test of a Contact Us demo page
 ### Prerequisites
 To run the project, you will need:
 * JDK 8 - you can download from [here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
-* Selenium WebDriver - used version 3.141.59
+* Selenium WebDriver - used version 3.141.59.
 You can download [here](https://www.seleniumhq.org/download/).
-* Apache POI - used version 4.1.0
+* Apache POI - used version 4.1.0.
 You can download [here](https://poi.apache.org/download.html#POI-4.1.0).
-* Gecko Driver
+* Gecko Driver - 
 It's already added to the project in the /libs folder, but for your own purposes you can download [here](https://github.com/mozilla/geckodriver/releases).
 
 ### Running the test
