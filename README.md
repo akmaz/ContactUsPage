@@ -19,16 +19,13 @@ Address of a website being tested:
 http://automationpractice.com/index.php?controller=contact
 
 Screenshot of a wesbite being tested:
-
+![alt text](ContactUsPage/images/website.jpg)
 
 Sample screenshots of the Excel file:
 ContactUsPage/images/
+![alt text](ContactUsPage/images/excel1.jpg)
 ![alt text](ContactUsPage/images/excel2.jpg)
-[ContactUsPage/images/excel2.jpg]
-![alt text](images/excel2.jpg)
 
-[https://github.com/akmaz/ContactUsPage/tree/master/ContactUsPage/images/excel2.jpg]
-(https://github.com/akmaz/ContactUsPage/tree/master/ContactUsPage/images/excel2.jpg)
 ### Acknowledgments
 * Selenium Testing Tools Cookbook, Second Edition, Unmesh Gundecha
 * Youtube videos
