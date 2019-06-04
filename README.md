@@ -1,7 +1,7 @@
 # ContactUsPage
 An implementation of a test scenario covering the test of a Contact Us demo page. Testing performed in Firefox browser. Code implemented in Eclipse using Selenium WebDriver. The results of the automated test are saved into an Excel file that contains a test scenario and test cases.
 
-###Prerequisites
+### Prerequisites
 To run the project, you will need:
 * JDK 8 - you can download from [here](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html)
 * Selenium WebDriver - used version 3.141.59
