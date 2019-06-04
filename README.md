@@ -23,9 +23,9 @@ Screenshot of a wesbite being tested:
 
 Sample screenshots of the Excel file:
 ContactUsPage/images/
-(./ContactUsPage/images/excel2.jpg)
-[./ContactUsPage/images/excel2.jpg]
-[./ContactUsPage/images/excel2.jpg]
+![alt text](ContactUsPage/images/excel2.jpg)
+[ContactUsPage/images/excel2.jpg]
+![alt text](images/excel2.jpg)
 
 [https://github.com/akmaz/ContactUsPage/tree/master/ContactUsPage/images/excel2.jpg]
 (https://github.com/akmaz/ContactUsPage/tree/master/ContactUsPage/images/excel2.jpg)
