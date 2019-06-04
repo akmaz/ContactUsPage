@@ -22,8 +22,10 @@ Screenshot of a wesbite being tested:
 
 
 Sample screenshots of the Excel file:
-(ContactUsPage/images/excel2.jpg)
-[ContactUsPage/images/excel2.jpg]
+ContactUsPage/images/
+(./ContactUsPage/images/excel2.jpg)
+[./ContactUsPage/images/excel2.jpg]
+[./ContactUsPage/images/excel2.jpg]
 
 ### Acknowledgments
 * Selenium Testing Tools Cookbook, Second Edition, Unmesh Gundecha
