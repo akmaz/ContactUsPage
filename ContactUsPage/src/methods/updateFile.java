@@ -12,8 +12,8 @@ import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.xssf.usermodel.XSSFWorkbook;
 
 /**
- * This class consists of two methods dealing with the Excel spreadsheet
- * It allows to handle the document and update the data
+ * This class consists of two methods handling the Excel spreadsheet
+ * It allows to open, read and update the document
  *
  */
 
@@ -25,7 +25,7 @@ public class updateFile {
 	/**
 	 * This method updates the status of individual steps performed in the Excel spreadsheet document
 	 * 
-	 * @param status this parameter takes a String which is a status of the test - either 'PASS' or 'FAIL', or other
+	 * @param status this parameter takes a String which is a status of a test step - either 'PASS' or 'FAIL', or other
 	 * @param row this parameter is an int defining the number of the row in the Excel spreadsheet currently being tested
 	 * @return nothing
 	 */
