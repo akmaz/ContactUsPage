@@ -27,6 +27,8 @@ ContactUsPage/images/
 [./ContactUsPage/images/excel2.jpg]
 [./ContactUsPage/images/excel2.jpg]
 
+[https://github.com/akmaz/ContactUsPage/tree/master/ContactUsPage/images/excel2.jpg]
+(https://github.com/akmaz/ContactUsPage/tree/master/ContactUsPage/images/excel2.jpg)
 ### Acknowledgments
 * Selenium Testing Tools Cookbook, Second Edition, Unmesh Gundecha
 * Youtube videos
