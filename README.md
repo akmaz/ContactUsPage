@@ -27,6 +27,6 @@ ContactUsPage/images/
 ![alt text](ContactUsPage/images/excel2.jpg)
 
 ### Acknowledgments
-* Selenium Testing Tools Cookbook, Second Edition, Unmesh Gundecha
+* _Selenium Testing Tools Cookbook_, Second Edition, Unmesh Gundecha
 * Youtube videos
 * Online tutorials - e.g. www.toolsqa.com, www.guru99.com
